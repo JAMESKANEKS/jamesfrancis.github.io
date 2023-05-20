@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  form {    
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #dcdcdc;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+  input[type="text"], input[type="password"] {
+    border-radius: 3px;
+    border: 1px solid #dcdcdc;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+  }
+  .web2 {
+    border: solid 2px;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: rgb(148, 148, 255);
+    color: white;
+  }
+  .web1 {
+    padding: 50px;
+    display: inline-block;
+    border: solid rgb(68, 68, 68) 10px;
+    background-color: white;
+  }
+  .gclass {
+    height: 500px;
+    width: 20%;
+    padding-top: 100px;
+    padding-right: 300px;
+    padding-left: 100px;
+  }
+  .ab1 {
+    color: white;
+    border: solid rgb(107, 107, 107) 10px;
+    background-color: rgb(81, 81, 202);
+  }
+  .gclass2 {
+    padding-right: 100px;
+    padding-left: 200px;
+    width: 22%;
+    height: 500px;
+  }
+  .web3 {
+    display: inline-block;
+  }
+  .g2 {
+    display: inline-block;
+    padding-left: 180px;
+  }
+  .g3 {
+    width: 70%;
+    height: 500px;
+  }
+  .img1 {
+    height: 100px;
+    width: 20%;
+  }
+  body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+  }
+  
+  header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+  }
+  
+  h1 {
+      margin: 0;
+  }
+  
+  nav {
+      background-color: #0051ff;
+      color: #fff;
+      padding: 10px;
+  }
+  
+  nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+  
+  nav ul li {
+      display: inline;
+      margin-right: 10px;
+  }
+  
+  nav ul li a {
+      color: #fff;
+      text-decoration: none;
+  }
+  
+  section {
+      padding: 20px;
+  }
+  
+  .product {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      padding: 20px;
+      margin-bottom: 20px;
+  }
+  
+  .product h2 {
+      margin-top: 0;
+  }
+  
+  footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+  }
+  .product1 {
+    background-color: #696969;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .head1 {
+    background-color: rgb(255, 153, 0);
+  }
+  .nav2 {
+    background-color: black;
+  }
+  .head2 {
+    background-color: green;
+  }
+ 
